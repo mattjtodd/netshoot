@@ -20,7 +20,7 @@ RUN set -ex \
     file\
     fping \
     iftop \
-    iperf \
+    iperf3 \
     iproute2 \
     iptables \
     iptraf-ng \

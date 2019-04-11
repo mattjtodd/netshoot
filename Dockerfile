@@ -45,6 +45,7 @@ RUN set -ex \
     strace \
     tcpdump \
     tcptraceroute \
+    tshark \
     util-linux \
     vim
 
